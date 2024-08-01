@@ -1,7 +1,6 @@
 # appcontact
 #Practica1 Vue3
-#Nombre(s) de integrante:
-#- Osmar Hammel Peñaranda Iporre
+
 ## Project setup
 ```
 npm install
